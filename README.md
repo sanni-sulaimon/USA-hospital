@@ -3,7 +3,9 @@ A large volumes of patient, admission, condition, and billing data across multip
 # US Hospital Operations Dashboard
 *Power BI* 
 _Report structure: Overview · Demographic · Insights pages_    
-Hospital Problem
+
+# Hospital Problem
+
 US hospitals generate large volumes of patient, admission, condition, and billing data across multiple facilities and locations, but this data is scattered and hard to interpret in raw form. Without a consolidated view, hospital administrators struggle to answer basic operational questions: which hospitals are overloaded, what conditions are most costly, whether patients are satisfied, and whether length of stay is trending up or down.
 # Objective
 _Build a single interactive Power BI dashboard that lets hospital management_ 
