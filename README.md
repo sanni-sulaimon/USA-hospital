@@ -86,13 +86,13 @@ May is the peak billing month at $121M(highest), Billing dips to $96M in June, S
 
 •	 *_Revenue concentration by condition is shallow, not steep:_* billing ranges narrowly from $54M to $68M across all 20 conditions no single condition dominates spend, meaning cost-control efforts need to span the full condition list rather than target one or two outliers.
 
-•	Seasonality in billing doesn't track admission volume: May shows the highest billing ($121M) despite average admission counts (452), while January has the highest admissions (468) but only mid-tier billing ($112M) — suggesting higher-cost cases cluster in specific months rather than following raw patient volume.
+•	*_Seasonality in billing doesn't track admission volume:_* May shows the highest billing ($121M) despite average admission counts (452), while January has the highest admissions (468) but only mid-tier billing ($112M) suggesting higher-cost cases cluster in specific months rather than following raw patient volume.
 
-•	Two cities drive disproportionate demand: New York (517) and Los Angeles (504) each host roughly double the patient volume of the next-tier cities (~250–265), signaling these two markets need dedicated capacity planning.
+•	*_Two cities drive disproportionate demand:_* New York (517) and Los Angeles (504) each host roughly double the patient volume of the next-tier cities (250–265), signaling these two markets need dedicated capacity planning.
 
-•	Hospital admissions are evenly distributed: the top 9 hospitals sit within a tight 253–267 patient band, indicating good load-balancing across the network rather than one overloaded flagship facility.
+•	*_Hospital admissions are evenly distributed:_* the top 9 hospitals sit within a tight 253–267 patient band, indicating good load-balancing across the network rather than one overloaded flagship facility.
 
-•	Satisfaction (3/6) alongside a flat 23.3-day average length of stay suggests stay duration isn't improving even as satisfaction sits at the midpoint — worth a deeper root-cause look (staffing, discharge process, communication) rather than assuming volume alone is the driver.
+•	Satisfaction (3/6) alongside a flat 23.3-day average length of stay suggests stay duration isn't improving even as satisfaction sits at the midpoint worth a deeper root cause look (staffing, discharge process, communication) rather than assuming volume alone is the driver.
 
 •	Age band “other” (801) and 71–80 (595) are the two largest patient groups, together making up close to 28% of all patients relevant for staffing geriatric and specialty care capacity.
 
